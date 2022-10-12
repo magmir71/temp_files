@@ -1,2 +1,5 @@
-browser visibility=pack
+browser hide all
+browser pack gap
+browser pack gold
+track name=exampleBed description=exampleBed visibility=pack
 chr17	41104500	41104520	HNRNPC

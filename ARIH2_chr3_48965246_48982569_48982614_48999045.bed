@@ -1,4 +1,7 @@
-browser visibility=pack
+browser hide all
+browser pack gap
+browser pack gold
+track name=exampleBed description=exampleBed visibility=pack
 chr3	48965007	48965243	BCLAF1
 chr3	48965169	48965240	BCLAF1
 chr3	48965600	48965620	HNRNPC

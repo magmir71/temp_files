@@ -1,4 +1,7 @@
-browser visibility=pack
+browser hide all
+browser pack gap
+browser pack gold
+track name=exampleBed description=exampleBed visibility=pack
 chr9	140507451	140507503	AQR
 chr9	140507451	140507541	AQR
 chr9	140507456	140507523	AQR
