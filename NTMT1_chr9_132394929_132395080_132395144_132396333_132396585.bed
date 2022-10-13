@@ -1,0 +1,3 @@
+track name=exampleBed description=exampleBed visibility=pack
+chr9	132395520	132395540	HNRNPA1
+chr9	132395720	132395740	HNRNPC
