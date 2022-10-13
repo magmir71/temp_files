@@ -1,6 +1,3 @@
-browser hide all
-browser pack gap
-browser pack gold
 track name=exampleBed description=exampleBed visibility=pack
 chr6	26460140	26460160	SRSF1
 chr6	26461040	26461060	SRSF1
